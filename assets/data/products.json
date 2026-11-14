@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro (2. Nesil)",
+    "tagline": "Uyarlanabilir ses",
+    "price": 7999,
+    "image": "assets/images/airpods_pro.png",
+    "description": "Aktif gürültü engelleme ve uyarlanabilir ses özelliğine sahip kablosuz kulaklık."
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max",
+    "tagline": "Ses odaklı",
+    "price": 17999,
+    "image": "assets/images/airpods_max.png",
+    "description": "Yüksek çözünürlüklü ses sunan kulak üstü kulaklık."
+  },
+  {
+    "id": 3,
+    "name": "HomePod",
+    "tagline": "Derin ses",
+    "price": 11999,
+    "image": "assets/images/homepod.png",
+    "description": "Derin bas ve net tiz sesler sunan akıllı hoparlör."
+  },
+  {
+    "id": 4,
+    "name": "HomePod Mini",
+    "tagline": "Canlı renkler",
+    "price": 3499.9,
+    "image": "assets/images/homepod_mini.png",
+    "description": "Küçük boyutlu, odayı dolduran sese sahip akıllı hoparlör."
+  },
+  {
+    "id": 5,
+    "name": "Apple TV 4K",
+    "tagline": "Sinema deneyimi",
+    "price": 4999,
+    "image": "assets/images/apple_tv_4k.png",
+    "description": "4K HDR ve Dolby Atmos desteği ile sinema deneyimi sunan medya oynatıcı."
+  }
+]
