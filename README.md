@@ -41,7 +41,7 @@ Mini Katalog; ana sayfada ürünleri GridView ile kart olarak gösterir, ürün 
    ```
 2. Repoyu klonlayın:
    ```
-   git clone <REPO_URL>
+   git clone https://github.com/jawixa/mini_katalog
    cd mini_katalog
    ```
 3. Bağımlılıkları yükleyin:
@@ -88,7 +88,7 @@ mini_katalog/
 
 ### Notlar
 
-- Banner görseli bana aittir ve `assets/images/banner.png` konumundadır.
+- Banner ve Ürün görselleri bana aittir ve `assets/images/` konumundadır.
 - Ürün fiyatları örnek değerlerdir, gerçek bir e-ticaret altyapısını temsil etmez.
 - Sepet ve sipariş işlemleri yalnızca simülasyondur, kalıcı veri tutulmaz.
 
@@ -133,7 +133,7 @@ Mini Catalog shows products as cards in a GridView on the home page, and include
    ```
 2. Clone the repository:
    ```
-   git clone <REPO_URL>
+   git clone https://github.com/jawixa/mini_katalog
    cd mini_katalog
    ```
 3. Install dependencies:
