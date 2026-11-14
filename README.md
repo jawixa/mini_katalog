@@ -180,7 +180,7 @@ mini_katalog/
 
 ### Notes
 
-- The banner image is my own work and is located at `assets/images/banner.png`.
+- The banner and product images belong to me and are located in the assets/images/ directory.
 - Product prices are sample values and do not represent a real e-commerce backend.
 - Cart and checkout actions are simulations only; no data is stored permanently.
 
